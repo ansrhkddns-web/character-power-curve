@@ -85,6 +85,8 @@ Read `references/genre-presets.md` when the user gives only a genre, wants a qui
 
 Read `references/worked-examples.md` when the user needs a concrete sample answer, asks for an example, or gives a short request that would benefit from a ready-made response shape.
 
+Read `references/quality-rubric.md` when the user asks for a review, score, grading, comparison, checklist, final polish, or when a designed growth curve should be self-checked before delivery.
+
 For each new ability, asset, title, or rank, define:
 
 - first problem it solves;
@@ -165,6 +167,8 @@ Use `references/genre-presets.md` before other long references when the request 
 
 Use `references/worked-examples.md` to calibrate tone and density when the answer should be immediately usable as a planning artifact.
 
+Use `references/quality-rubric.md` after drafting a major progression plan, especially for long-series designs, to catch reward duplication, flat tension, unclear position emphasis, and missing next ceilings.
+
 ## Quality Gates
 
 - Every major reward has a cost, counter, or social consequence.
@@ -175,6 +179,7 @@ Use `references/worked-examples.md` to calibrate tone and density when the answe
 - The next ceiling is visible before the current ceiling is broken.
 - Position emphasis changes at least once per major arc.
 - Rewards vary across capability, status, resources, and burden instead of repeating only power increases.
+- If giving a full design, include a brief self-check or risk note when it would help the user revise the outline.
 
 ## Skill Routing
 

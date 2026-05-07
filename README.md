@@ -30,7 +30,8 @@ character-power-curve/
    ├─ genre-presets.md
    ├─ growth-curve-patterns.md
    ├─ output-templates.md
-   └─ protagonist-type-catalog.md
+   ├─ protagonist-type-catalog.md
+   └─ worked-examples.md
 ```
 
 ## Install With Codex
@@ -108,6 +109,7 @@ $character-power-curve로 악역영애 생존형 주인공의 보상구조와 �
 - 위기 강도 조절
 - 다음 5-15화 적용안
 - 혼합형 주인공일 경우 기원, 능력, 위치, 결핍 조합표
+- 짧은 요청일 경우 첫 25화 성장 프리셋 또는 모범 응답 형태
 
 ## License And Attribution
 

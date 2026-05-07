@@ -83,6 +83,8 @@ Read `references/diagnostic-playbooks.md` when the user asks to fix, audit, diag
 
 Read `references/genre-presets.md` when the user gives only a genre, wants a quick starting kit, asks for default progression by genre, or needs a genre-specific reward/crisis preset before detailed customization.
 
+Read `references/worked-examples.md` when the user needs a concrete sample answer, asks for an example, or gives a short request that would benefit from a ready-made response shape.
+
 For each new ability, asset, title, or rank, define:
 
 - first problem it solves;
@@ -160,6 +162,8 @@ When recommending types, give 3-5 candidates only. For each candidate, include w
 Use `references/advanced-playbook.md` when the user needs arc-level or season-level progression design.
 
 Use `references/genre-presets.md` before other long references when the request is short and genre-first, such as "hunter growth curve", "villainess survival protagonist", "chaebol possession growth", or "murim exile progression".
+
+Use `references/worked-examples.md` to calibrate tone and density when the answer should be immediately usable as a planning artifact.
 
 ## Quality Gates
 

@@ -27,6 +27,7 @@ character-power-curve/
    ├─ advanced-playbook.md
    ├─ archetype-combination-matrix.md
    ├─ diagnostic-playbooks.md
+   ├─ genre-presets.md
    ├─ growth-curve-patterns.md
    ├─ output-templates.md
    └─ protagonist-type-catalog.md
@@ -90,6 +91,10 @@ $character-power-curve로 악역영애 생존형 주인공의 보상구조와 �
 
 ```text
 회귀자 주인공이 너무 쉽게 이겨서 중반부 긴장감이 죽었어. 최소 수정으로 살려줘.
+```
+
+```text
+장르만 정했어. 헌터물 기본 주인공 성장곡선 프리셋으로 시작안을 잡아줘.
 ```
 
 ## Recommended Output

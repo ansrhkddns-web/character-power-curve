@@ -81,6 +81,8 @@ Read `references/growth-curve-patterns.md` when the user asks for:
 
 Read `references/diagnostic-playbooks.md` when the user asks to fix, audit, diagnose, repair, improve, or troubleshoot an existing protagonist, outline, synopsis, episode plan, or power system.
 
+Read `references/genre-presets.md` when the user gives only a genre, wants a quick starting kit, asks for default progression by genre, or needs a genre-specific reward/crisis preset before detailed customization.
+
 For each new ability, asset, title, or rank, define:
 
 - first problem it solves;
@@ -156,6 +158,8 @@ Read `references/output-templates.md` for reusable tables. Default to this struc
 When recommending types, give 3-5 candidates only. For each candidate, include why it fits, what fantasy it promises, where tension can collapse, and how to price the first major reward.
 
 Use `references/advanced-playbook.md` when the user needs arc-level or season-level progression design.
+
+Use `references/genre-presets.md` before other long references when the request is short and genre-first, such as "hunter growth curve", "villainess survival protagonist", "chaebol possession growth", or "murim exile progression".
 
 ## Quality Gates
 

@@ -63,6 +63,23 @@ Use these templates when the user asks for diagnosis, design tables, long-term g
 - Reward to delay:
 ```
 
+## Genre Preset Starter
+
+```markdown
+## 장르 기본값
+| 항목 | 선택 |
+| --- | --- |
+| 장르 |  |
+| 독자 약속 |  |
+| 기본 주인공 조합 |  |
+| 위치강조 |  |
+| 첫 위기 |  |
+
+## 첫 25화 성장 프리셋
+| 구간 | 사건 기능 | 독자 보상 | 세계 내 반작용 | 다음 천장 |
+| --- | --- | --- | --- | --- |
+```
+
 ## Protagonist Type Recommendation
 
 ```markdown

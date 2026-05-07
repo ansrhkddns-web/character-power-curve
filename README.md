@@ -12,6 +12,7 @@
 - 능력, 지위, 자원, 부담을 나눠 보상구조를 설계합니다.
 - 주인공이 강해진 뒤에도 긴장감이 유지되도록 위기 강도와 다음 천장을 조절합니다.
 - 100종 이상 주인공 타입 카탈로그를 참조해 후보 타입과 장단점을 제안합니다.
+- 단일 타입이 애매한 경우 `기원 × 능력 × 세계 내 위치 × 결핍` 매트릭스로 혼합형 주인공을 설계합니다.
 
 ## Files
 
@@ -23,6 +24,7 @@ character-power-curve/
 │  └─ openai.yaml
 └─ references/
    ├─ advanced-playbook.md
+   ├─ archetype-combination-matrix.md
    ├─ growth-curve-patterns.md
    ├─ output-templates.md
    └─ protagonist-type-catalog.md
@@ -80,6 +82,10 @@ $character-power-curve로 악역영애 생존형 주인공의 보상구조와 �
 아카데미 먼치킨 주인공인데 긴장감이 죽지 않게 위치강조와 rival scaling을 잡아줘.
 ```
 
+```text
+헌터물 회귀자+제작자+재벌형을 섞은 주인공 타입을 만들고 25화까지 성장곡선을 설계해줘.
+```
+
 ## Recommended Output
 
 이 스킬은 기본적으로 다음 항목을 포함한 “진단+설계표”를 반환하도록 설계되어 있습니다.
@@ -90,6 +96,7 @@ $character-power-curve로 악역영애 생존형 주인공의 보상구조와 �
 - 보상구조
 - 위기 강도 조절
 - 다음 5-15화 적용안
+- 혼합형 주인공일 경우 기원, 능력, 위치, 결핍 조합표
 
 ## License And Attribution
 

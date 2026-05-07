@@ -33,6 +33,19 @@ When designing or auditing a protagonist growth curve:
 
 If the user gives limited context, assume a Korean serialized webnovel with fast early satisfaction, visible 2-3 episode rewards, arc rewards every 10-15 episodes, and a price or complication within 1-3 episodes after a major win.
 
+## Korean Webnovel Response Rules
+
+When the user writes in Korean, answer in Korean by default. Use familiar Korean webnovel planning vocabulary naturally, including terms for overpowered protagonists, growth-type protagonists, regressors, possessors, buildup, catharsis, frustration, free episodes, paid conversion, episode hooks, reward satisfaction, crisis intensity, next ceiling, and position emphasis.
+
+Prioritize reader-facing serial utility over abstract theory:
+
+- State the protagonist type in one sentence before the table.
+- Make the first 5-15 episode application concrete.
+- Separate "reader reward" from "in-world reward".
+- Mark which reward should be public, hidden, delayed, or paid with a cost.
+- If tension is weak, repair the pressure source before adding a stronger enemy.
+- If the protagonist is overpowered, move conflict toward control, exposure, collateral damage, law, reputation, resource bottlenecks, or relationships.
+
 ## Type Selection
 
 Read `references/protagonist-type-catalog.md` when the user asks for:
@@ -43,6 +56,17 @@ Read `references/protagonist-type-catalog.md` when the user asks for:
 - 100+ protagonist type lists or detailed type-by-type reward structures.
 
 Use the catalog as a menu, not a cage. Combine one origin type, one competency type, and one position type when the protagonist does not fit a single entry.
+
+Read `references/archetype-combination-matrix.md` when the user asks for:
+
+- a custom protagonist type rather than one catalog entry;
+- genre-by-genre protagonist segmentation;
+- hybrid protagonists such as hunter regressor plus crafter plus chaebol-style operator;
+- growth curve design from a vague premise;
+- choosing between multiple possible protagonist types;
+- paid-serialization oriented reward pacing.
+
+Use the matrix to build a protagonist from four layers: origin, advantage, position, and deficiency.
 
 ## Growth Curve Design
 
@@ -124,6 +148,8 @@ Read `references/output-templates.md` for reusable tables. Default to this struc
 4. Reward structure.
 5. Crisis and ceiling design.
 6. Next 5-15 episode application.
+
+When recommending types, give 3-5 candidates only. For each candidate, include why it fits, what fantasy it promises, where tension can collapse, and how to price the first major reward.
 
 Use `references/advanced-playbook.md` when the user needs arc-level or season-level progression design.
 

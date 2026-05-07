@@ -31,6 +31,38 @@ Use these templates when the user asks for diagnosis, design tables, long-term g
 | --- | --- | --- | --- |
 ```
 
+## Korean Short Recommendation
+
+```markdown
+## 추천 타입
+이 주인공은 `[1차 타입] + [보조 타입]` 조합이 가장 강합니다. 독자 보상은 `[핵심 보상]`이고, 긴장감은 `[주요 결핍/압박]`으로 유지합니다.
+
+| 후보 | 독자 약속 | 성장곡선 | 위치강조 | 첫 보상 | 첫 대가 |
+| --- | --- | --- | --- | --- | --- |
+
+## 5-15화 적용
+| 화수 | 사건 | 독자 보상 | 세계 내 반작용 |
+| --- | --- | --- | --- |
+```
+
+## Type Combination Sheet
+
+```markdown
+| Layer | Choice | Reason | Risk |
+| --- | --- | --- | --- |
+| Origin |  |  |  |
+| Advantage |  |  |  |
+| Position |  |  |  |
+| Deficiency |  |  |  |
+
+## Combined Type
+- Name:
+- Reader promise:
+- Main growth curve:
+- First public consequence:
+- Reward to delay:
+```
+
 ## Protagonist Type Recommendation
 
 ```markdown

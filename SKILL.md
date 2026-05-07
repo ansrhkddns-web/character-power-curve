@@ -79,6 +79,8 @@ Read `references/growth-curve-patterns.md` when the user asks for:
 - reward rhythm;
 - tension repair after the protagonist becomes too strong.
 
+Read `references/diagnostic-playbooks.md` when the user asks to fix, audit, diagnose, repair, improve, or troubleshoot an existing protagonist, outline, synopsis, episode plan, or power system.
+
 For each new ability, asset, title, or rank, define:
 
 - first problem it solves;
@@ -137,6 +139,8 @@ When auditing a draft or outline:
 5. Check whether enemies and institutions adapt.
 6. Check whether the protagonist's world-position changes after major wins.
 7. Add new ceilings, prices, counters, public reactions, or social complications.
+
+If the user provides a broken or vague outline, first name the failure mode, then give the smallest repair that preserves the user's premise.
 
 ## Output Formats
 

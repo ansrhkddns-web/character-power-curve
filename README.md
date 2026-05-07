@@ -20,11 +20,13 @@
 character-power-curve/
 ├─ SKILL.md
 ├─ README.md
+├─ LICENSE.txt
 ├─ agents/
 │  └─ openai.yaml
 └─ references/
    ├─ advanced-playbook.md
    ├─ archetype-combination-matrix.md
+   ├─ diagnostic-playbooks.md
    ├─ growth-curve-patterns.md
    ├─ output-templates.md
    └─ protagonist-type-catalog.md
@@ -86,6 +88,10 @@ $character-power-curve로 악역영애 생존형 주인공의 보상구조와 �
 헌터물 회귀자+제작자+재벌형을 섞은 주인공 타입을 만들고 25화까지 성장곡선을 설계해줘.
 ```
 
+```text
+회귀자 주인공이 너무 쉽게 이겨서 중반부 긴장감이 죽었어. 최소 수정으로 살려줘.
+```
+
 ## Recommended Output
 
 이 스킬은 기본적으로 다음 항목을 포함한 “진단+설계표”를 반환하도록 설계되어 있습니다.
@@ -100,6 +106,6 @@ $character-power-curve로 악역영애 생존형 주인공의 보상구조와 �
 
 ## License And Attribution
 
-현재 이 저장소는 별도 라이선스 파일이 추가되지 않은 상태를 기준으로 합니다. 공개 배포 범위를 명확히 하려면 `LICENSE.txt`를 추가하세요.
+이 스킬은 MIT License로 배포됩니다. 자세한 내용은 `LICENSE.txt`를 확인하세요.
 
 스킬을 공유하거나 수정 배포할 때는 원 저장소 링크를 함께 표기하는 것을 권장합니다.

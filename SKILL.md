@@ -1,6 +1,6 @@
 ---
 name: character-power-curve
-description: Design, diagnose, and repair Korean webnovel protagonist growth curves, including protagonist type classification, munchkin or underdog pacing, regression and possession advantages, ability unlock timing, social position emphasis, reward structures, crisis intensity, rivals, ceilings, costs, and long-series escalation. Use for hunter, tower, dungeon, system, constellation, academy, murim, fantasy, romance fantasy, villainess, extra survival, chaebol, finance, management, entertainment, sports, cooking, crafting, revenge, survival, or any serialized fiction where the protagonist must grow without collapsing tension.
+description: Design, diagnose, and repair commercial Korean webnovel protagonist growth curves, including protagonist type classification, paid-serialization readiness, free-to-paid conversion, retention loops, munchkin or underdog pacing, regression and possession advantages, ability unlock timing, social position emphasis, reward structures, crisis intensity, rivals, ceilings, costs, and long-series escalation. Use for hunter, tower, dungeon, system, constellation, academy, murim, fantasy, romance fantasy, villainess, extra survival, chaebol, finance, management, entertainment, sports, cooking, crafting, revenge, survival, or any serialized fiction where the protagonist must grow without collapsing tension or paid reader motivation.
 ---
 
 # Character Power Curve
@@ -32,6 +32,8 @@ When designing or auditing a protagonist growth curve:
 8. Return a diagnosis plus design tables unless the user asks for prose only.
 
 If the user gives limited context, assume a Korean serialized webnovel with fast early satisfaction, visible 2-3 episode rewards, arc rewards every 10-15 episodes, and a price or complication within 1-3 episodes after a major win.
+
+If the user mentions commercial release, paid chapters, selling, monetization, launch, retention, paid conversion, platform performance, or "service level", switch to commercial mode: connect every growth decision to click promise, early proof, repeatable pleasure, paid-boundary unresolved value, and long-series retention.
 
 ## Korean Webnovel Response Rules
 
@@ -86,6 +88,8 @@ Read `references/genre-presets.md` when the user gives only a genre, wants a qui
 Read `references/worked-examples.md` when the user needs a concrete sample answer, asks for an example, or gives a short request that would benefit from a ready-made response shape.
 
 Read `references/quality-rubric.md` when the user asks for a review, score, grading, comparison, checklist, final polish, or when a designed growth curve should be self-checked before delivery.
+
+Read `references/commercial-serialization-playbook.md` when the user asks for commercial-grade design, paid serialization, platform readiness, first 25 episodes, conversion hooks, retention, monetization, service-level quality, launch planning, or a webnovel intended to earn money.
 
 For each new ability, asset, title, or rank, define:
 
@@ -169,6 +173,8 @@ Use `references/worked-examples.md` to calibrate tone and density when the answe
 
 Use `references/quality-rubric.md` after drafting a major progression plan, especially for long-series designs, to catch reward duplication, flat tension, unclear position emphasis, and missing next ceilings.
 
+Use `references/commercial-serialization-playbook.md` before finalizing any paid-serialization plan. Commercial answers must include what makes readers click, what proves the promise by episode 3, what repeats by episode 10, what remains unresolved at the paid boundary, and what prevents churn after the first paid reward.
+
 ## Quality Gates
 
 - Every major reward has a cost, counter, or social consequence.
@@ -180,6 +186,7 @@ Use `references/quality-rubric.md` after drafting a major progression plan, espe
 - Position emphasis changes at least once per major arc.
 - Rewards vary across capability, status, resources, and burden instead of repeating only power increases.
 - If giving a full design, include a brief self-check or risk note when it would help the user revise the outline.
+- For commercial work, the growth curve must support click promise, first-3-episode proof, first-10-episode loop, paid-boundary unresolved value, and post-payment retention.
 
 ## Skill Routing
 

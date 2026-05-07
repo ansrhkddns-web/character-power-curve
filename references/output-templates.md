@@ -80,6 +80,34 @@ Use these templates when the user asks for diagnosis, design tables, long-term g
 | --- | --- | --- | --- | --- |
 ```
 
+## Commercial Serialization Plan
+
+```markdown
+## 상업성 진단
+| 항목 | 설계 |
+| --- | --- |
+| 장르 선반 |  |
+| 구매 판타지 |  |
+| 주인공 엔진 |  |
+| 클릭 약속 |  |
+| 3화 내 증명 |  |
+| 10화 내 반복 루프 |  |
+
+## 첫 25화 유료전환 설계
+| 구간 | 성장 보상 | 독자 보상 | 세계 반응 | 결제 유도 가치 |
+| --- | --- | --- | --- | --- |
+
+## 유료화 경계
+- 닫아줄 가치:
+- 열어둘 가치:
+- 결제 직전 훅:
+- 결제 후 첫 보상:
+
+## 이탈 리스크와 최소 수정
+| 리스크 | 이유 | 수정 |
+| --- | --- | --- |
+```
+
 ## Protagonist Type Recommendation
 
 ```markdown

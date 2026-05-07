@@ -1,4 +1,4 @@
 interface:
   display_name: "Character Power Curve"
-  short_description: "Design Korean webnovel protagonist growth curves"
-  default_prompt: "Use $character-power-curve to classify a Korean webnovel protagonist type, design the growth curve, position emphasis, reward structure, crisis intensity, and long-series escalation."
+  short_description: "Design commercial Korean webnovel growth curves"
+  default_prompt: "Use $character-power-curve to classify a Korean webnovel protagonist type and design a commercial growth curve with position emphasis, reward structure, crisis intensity, paid-conversion hook, retention loop, and long-series escalation."

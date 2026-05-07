@@ -13,6 +13,7 @@
 - 주인공이 강해진 뒤에도 긴장감이 유지되도록 위기 강도와 다음 천장을 조절합니다.
 - 100종 이상 주인공 타입 카탈로그를 참조해 후보 타입과 장단점을 제안합니다.
 - 단일 타입이 애매한 경우 `기원 × 능력 × 세계 내 위치 × 결핍` 매트릭스로 혼합형 주인공을 설계합니다.
+- 유료연재를 전제로 클릭 약속, 3화 내 증명, 10화 내 반복 루프, 20-25화 유료전환 훅, 결제 후 retention을 함께 설계합니다.
 
 ## Files
 
@@ -26,6 +27,7 @@ character-power-curve/
 └─ references/
    ├─ advanced-playbook.md
    ├─ archetype-combination-matrix.md
+   ├─ commercial-serialization-playbook.md
    ├─ diagnostic-playbooks.md
    ├─ genre-presets.md
    ├─ growth-curve-patterns.md
@@ -103,6 +105,10 @@ $character-power-curve로 악역영애 생존형 주인공의 보상구조와 �
 이 성장곡선이 유료연재에 버틸지 100점 기준으로 평가하고 최소 수정안을 줘.
 ```
 
+```text
+돈 받고 팔 웹소설이야. 첫 25화 유료전환 기준으로 주인공 성장곡선, 보상경제, 이탈 리스크까지 상업성 있게 설계해줘.
+```
+
 ## Recommended Output
 
 이 스킬은 기본적으로 다음 항목을 포함한 “진단+설계표”를 반환하도록 설계되어 있습니다.
@@ -116,6 +122,7 @@ $character-power-curve로 악역영애 생존형 주인공의 보상구조와 �
 - 혼합형 주인공일 경우 기원, 능력, 위치, 결핍 조합표
 - 짧은 요청일 경우 첫 25화 성장 프리셋 또는 모범 응답 형태
 - 검토 요청일 경우 100점 루브릭과 최소 수정안
+- 상업 설계 요청일 경우 클릭 약속, 3화 증명, 10화 반복 루프, 유료화 경계, 결제 후 retention
 
 ## License And Attribution
 
